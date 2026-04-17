@@ -1,0 +1,19 @@
+{
+  "name": "day01",
+  "version": "1.0.0",
+  "description": "Our 1st ExpressJs Server",
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Harshal",
+  "type": "commonjs",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
